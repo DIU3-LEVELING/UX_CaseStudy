@@ -56,8 +56,8 @@ Miembros:
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
-[#1] (https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/Persona%20%231.png)
- [#2] (https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/Persona%20%232.png)
+[#1](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/Persona%20%231.png)
+ [#2](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/Persona%20%232.png)
 
 
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
@@ -65,16 +65,16 @@ Miembros:
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
-  [#1] (https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/User%20Journey%20Map%20%231.jpg)
-  [#2] (https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/User%20Journey%20Map%20%232.jpg)
+ [#1](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/User%20Journey%20Map%20%231.jpg)
+ [#2](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/User%20Journey%20Map%20%232.jpg)
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
-[Usability Review] (  https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/Usability-review.xlsx.pdf)
-[Resumen Valoracion] (https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/Resumen%20de%20la%20valoraci%C3%B3n%20pr%C3%A1ctica.pdf)
+[Usability Review](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/Usability-review.xlsx.pdf)
+[Resumen Valoracion](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/Resumen%20de%20la%20valoraci%C3%B3n%20pr%C3%A1ctica.pdf)
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
 >>> - Enlace al documento:  (xls/pdf) 
