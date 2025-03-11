@@ -20,7 +20,5 @@ Autores: Francisco Domene Luján y Marco Armijo Gonzalez
 - User research Plan:
   https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/USER%20RESEARCH%20PLAN.pdf
 
-
-
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Incluya aquí simpre una valoración final del equipo sobre la propia realización de la práctica
+-Resumen Valoracion:
+https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/Resumen%20de%20la%20valoraci%C3%B3n%20pr%C3%A1ctica.pdf
