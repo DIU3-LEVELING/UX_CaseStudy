@@ -42,35 +42,39 @@ Miembros:
 
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
------
+[User Research](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/USER%20RESEARCH%20PLAN.pdf)
 
 >>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
 
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
------
+[Competitive Analysis](  https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/Competitor%20Analysis%20%5BDIU23%5D.png)
 
 >>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
 
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
------
+[#1] (https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/Persona%20%231.png)
+ [#2] (https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/Persona%20%232.png)
+
 
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
 
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
-----
+  [#1] (https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/User%20Journey%20Map%20%231.jpg)
+  [#2] (https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/User%20Journey%20Map%20%232.jpg)
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
-----
+[Usability Review] (  https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/Usability-review.xlsx.pdf)
+[Resumen Valoracion] (https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/Resumen%20de%20la%20valoraci%C3%B3n%20pr%C3%A1ctica.pdf)
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
 >>> - Enlace al documento:  (xls/pdf) 
