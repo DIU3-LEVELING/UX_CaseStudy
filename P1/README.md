@@ -1,5 +1,7 @@
 ## DIU - Practica1, entregables
 
+Autores: Francisco Domene Luján y Marco Armijo Gonzalez
+
 
 - Desk research: Análisis Competencia :
   https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/Competitor%20Analysis%20%5BDIU23%5D.png
