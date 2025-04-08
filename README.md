@@ -9,11 +9,11 @@ Actualizado: 08/04/2025
 
 Proyecto: 
 
->>>Tela de Vida
+Tela de Vida
 
 Descripción: 
 
->>> Promover la moda circular, ofreciendo una plataforma confiable donde las personas puedan comprar ropa usada de calidad y tener la opcion de darle un toque personal en nuestros talleres.
+Promover la moda circular, ofreciendo una plataforma confiable donde las personas puedan comprar ropa usada de calidad y tener la opcion de darle un toque personal en nuestros talleres.
 
 Logotipo: 
 
