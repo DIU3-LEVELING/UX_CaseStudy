@@ -82,7 +82,7 @@ Miembros:
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
 [Bocetos Figma](a)
-[Bocetos responsive] (https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/responsive.pdf)
+[Bocetos responsive](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/responsive.pdf)
 
 
 <br>
