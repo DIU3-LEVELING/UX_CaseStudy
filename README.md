@@ -58,56 +58,31 @@ Miembros:
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
+### 2.a Empathy map 
 ![Método UX](img/feedback-capture-grid.png) 
-----
+[Empathy map](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/Empathy%20Customer%20Map%20Ropa%202%20Mano.pdf)
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
 
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
-----
-
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
-
+[ScopeCanvas](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/Scope%20Canvas%20(1).pdf)
 
 
 ### 2.b User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
------
-
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
-
+[User Flow](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/User_Flow.pdf)
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
-----
-
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
-
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+[Sitemap](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/sitemap.png)
+[Labelling](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/Etiquetado_.pdf)
 
 
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
------
+[Bocetos Figma](a)
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
 
 <br>
 
