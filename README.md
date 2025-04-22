@@ -110,10 +110,41 @@ Miembros:
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
-----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Los patrones que hemos decidido usar para la creación del prototipo son:
+
+Onboarding: Creación de pantalla de bienvenida.
+
+Menu: Lista de apartados de navegación disponibles.
+
+Carousel: Sección destacada de imágenes.
+
+Search: Barra de busqueda.
+
+Article list: Una lista de artículos con tarjetas.
+
+Compra: Una pantalla para comprar.
+
+Formulario de entrada de datos: Formulario para capturar la información de usuarios.
+
+Acerca de: Mostramos la información de la empresa.
+
+Wizard: Hemos creado una secuencia de pasos.
+
+Elegir Prenda:
+
+Abrimos la pestaña de prendas.
+Navegamos hasta encontrar la prenda que deseamos.
+Clicamos en la prenda que queremos comprar.
+Una vez dentro añadimos al carrito.
+
+Pagar:
+
+Abrimos el carrito: Seleccionamos el icono del carrito para ver todo lo que tenemos ya en él. Aquí se mostrará el importe total a pagar.
+Elegimos método de pago: Elegimos entre tarjeta y paypal.
+Introducimos datos de la tarjeta y pinchamos en "Usar esta tarjeta".
+Se te mostrará un resumen de la compra y confirmaremos el pago clicando en la opción "Pagar".
+
 
 
 ### 3.d Mockup
