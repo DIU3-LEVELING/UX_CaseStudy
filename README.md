@@ -106,6 +106,7 @@ Hemos empleado un conjunto de iconos ampliamente estandárizados y adaptados a n
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
+![Landing Page](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P3/landingpage.png) 
 [Landing Page](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P3/LandingPage.pdf) 
 
 
@@ -151,16 +152,9 @@ Se te mostrará un resumen de la compra y confirmaremos el pago clicando en la o
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
-----
-https://www.figma.com/design/N3kjIR6WIFIBuNoY6UtC3U/guidelines?node-id=0%3A1&t=2Cn85bQoROY27zsZ-1 En este enlace tenemos los diseños realizados. Seleccionando el botón Play que sale en la esquina superior izquierda de figma nos mandará a otra pestaña y a partir de ella podremos interactuar con la aplicación clicando en los distintos botones.
 
+https://www.figma.com/design/u0xPnFSoru3xrFww3blOrQ/guidelines?node-id=0-1&t=8hRuzovCI2otVrkV-1 En este enlace tenemos los diseños realizados. Seleccionando el botón Play que sale en la esquina superior izquierda de figma nos mandará a otra pestaña y a partir de ella podremos interactuar con la aplicación clicando en los distintos botones.
 
-### 3.e ¿My UX-Case Study?
-![Método UX](img/caseStudy.png) 
------
-
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
 
 <br>
 
