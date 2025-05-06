@@ -94,18 +94,20 @@ Miembros:
 
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
------
+[Moodboard](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P3/Moodboard25.pdf)
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+El nombre de tela de la vida pretende transmitir nuestro objetivo como empresa, que no es otro que el de darle una nueva vida a la ropa.
+
+Nuestro logo es sencillo e intenta expresar nuestro compromiso con el medio ambiente.
+Nuestra gama de colores presentan tonos pastelosos.
+Hemos elegido unas tipografías sencillas y elegantes como el logo, siendo estas "Poppins" e "Open Sans".
+Hemos empleado un conjunto de iconos ampliamente estandárizados y adaptados a nuestra gama de color.
 
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
-----
+[Landing Page](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P3/LandingPage.pdf) 
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
 
 
 ### 3.c Guidelines
@@ -150,8 +152,7 @@ Se te mostrará un resumen de la compra y confirmaremos el pago clicando en la o
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
-
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+https://www.figma.com/design/N3kjIR6WIFIBuNoY6UtC3U/guidelines?node-id=0%3A1&t=2Cn85bQoROY27zsZ-1 En este enlace tenemos los diseños realizados. Seleccionando el botón Play que sale en la esquina superior izquierda de figma nos mandará a otra pestaña y a partir de ella podremos interactuar con la aplicación clicando en los distintos botones.
 
 
 ### 3.e ¿My UX-Case Study?
