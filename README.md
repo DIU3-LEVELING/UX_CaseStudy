@@ -89,9 +89,6 @@ Miembros:
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 [Moodboard](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P3/Moodboard25.pdf)
