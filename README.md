@@ -1,11 +1,9 @@
 # DIU25
-Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario (Tema: Reciclaje y artesanía (handcraft) ) 
 
 [Guiones de prácticas](GuionesPracticas/)
 
 Grupo: DIU3_Leveling.  Curso: 2024/25 
-
-Actualizado: 08/04/2025
 
 Proyecto: 
 
@@ -17,7 +15,7 @@ Promover la moda circular, ofreciendo una plataforma confiable donde las persona
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+![Logo](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P3/logo.png)
 
 Miembros:
  * :bust_in_silhouette:  Francisco Domene Lujan     :octocat:     
