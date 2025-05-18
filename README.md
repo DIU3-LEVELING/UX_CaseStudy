@@ -227,7 +227,9 @@ Todos los resultados de la practica, asi como la documentacion sobbre como se ha
 
 
 <br>
+
 ## Paso 4. Pruebas de Evaluación 
+
 
 ### 4.a Reclutamiento de usuarios 
 ![Método UX](img/usability-testing.png)
