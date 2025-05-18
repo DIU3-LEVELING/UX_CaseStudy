@@ -46,7 +46,10 @@ Descubrir barreras y oportunidades: identificaremos los retos que los usuarios e
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
-[Competitive Analysis](  https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/Competitor%20Analysis%20%5BDIU23%5D.png)
+<br>
+Hemos elegido Casakuna por ser un negocio local con enfoque en moda sostenible y porque su web muestra margen de mejora frente a otras como Modare y OhOhJuly. A diferencia de estas, Casakuna presenta una estructura básica, baja visibilidad digital y contenido limitado. Modare destaca por su plataforma completa y misión clara; OhOhJuly, por su diseño atractivo y usabilidad enfocada al cliente. Casakuna podría mejorar su comunicación, diseño y servicios online. Esto le permitiría ampliar su alcance e impacto en la comunidad.
+![Competitive Analysis](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/Competitor%20Analysis%20%5BDIU23%5D.png)
+[Competitive Analysis](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/Competitor%20Analysis%20%5BDIU23%5D.png)
 
 
 ### 1.c Personas
@@ -61,8 +64,10 @@ Manuel López es un hombre de 45 años, español, que trabaja como profesor de H
 
 
 ### 1.d User Journey Map
-![Método UX](img/JourneyMap.png) 
+![Método UX](img/JourneyMap.png)
+<br>
 Julia y Manuel representan dos perfiles de usuario con necesidades distintas dentro del ámbito de la moda sostenible y de segunda mano. Julia, estudiante preocupada por el impacto ambiental, accede a la tienda por redes sociales y espera transparencia sobre materiales y procesos. Sin embargo, su experiencia se ve afectada por la falta de información clara en la web y una navegación poco amigable. Aun así, valora la atención personalizada y termina compartiendo su experiencia en redes. Por otro lado, Manuel, profesor que busca ropa para su hija, opta por visitar la tienda física tras ver que no hay opción online. Su proceso está marcado por la incertidumbre, pero mejora gracias a la atención en tienda, aunque persisten dudas sobre la calidad de las prendas.
+<br>
 ![Journey Map 1](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/User%20Journey%20Map%20%231.jpg)
 ![Journey Map 2](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/User%20Journey%20Map%20%232.jpg)
  [#1](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P1/User%20Journey%20Map%20%231.jpg)
