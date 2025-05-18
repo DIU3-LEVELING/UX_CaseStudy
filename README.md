@@ -104,7 +104,8 @@ Hemos realizado el Empathy Map para entender mejor a los usuarios interesados en
 
 
 ### 2.b User Flow (task) analysis 
-![Método UX](img/Sitemap.png) <br>
+Primero hemos analizado las tareas y les hemos dado una prioridad (H, M o L) para los usuarios y los adminstradores.
+[User Flow]([https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/User_Flow.pdf](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/img/tareas_permisos.png))
 En nuestro user flow, hemos representado el recorrido que sigue un usuario para registrarse, iniciar sesión y dejar una reseña sobre una prenda en la web. El flujo comienza en el portal, donde el usuario puede crear una cuenta introduciendo sus datos correctamente o recibiendo mensajes de error si hay fallos. Una vez creada la cuenta e iniciada sesión, el usuario accede a la sección de ropa de segunda mano, selecciona una prenda y, si ha iniciado sesión, puede dejar su reseña. En caso contrario, se le solicita iniciar sesión antes de continuar. Este flujo refleja una de las tareas clave para fomentar la participación activa en la plataforma.
 ![User Flow](img/User_Flow_page-0001.jpg)
 [User Flow](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/User_Flow.pdf)
