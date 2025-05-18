@@ -144,7 +144,9 @@ El nombre de tela de la vida pretende transmitir nuestro objetivo como empresa, 
 Nuestro logo es sencillo e intenta expresar nuestro compromiso con el medio ambiente.
 Nuestra gama de colores presentan tonos pastelosos.
 Hemos elegido unas tipografías sencillas y elegantes como el logo, siendo estas "Poppins" e "Open Sans".
-Hemos empleado un conjunto de iconos ampliamente estandárizados y adaptados a nuestra gama de color.
+Hemos empleado un conjunto de iconos ampliamente estandárizados y adaptados a nuestra gama de color.ç
+
+![Moodboard](img/Moodboard25_page-0001.jpg)
 
 
 ### 3.b Landing Page
@@ -190,7 +192,18 @@ Abrimos el carrito: Seleccionamos el icono del carrito para ver todo lo que tene
 Elegimos método de pago: Elegimos entre tarjeta y paypal.
 Introducimos datos de la tarjeta y pinchamos en "Usar esta tarjeta".
 Se te mostrará un resumen de la compra y confirmaremos el pago clicando en la opción "Pagar".
-
+![Página 1](img/guidelines_page-0001.jpg)
+![Página 2](img/guidelines_page-0002.jpg)
+![Página 3](img/guidelines_page-0003.jpg)
+![Página 4](img/guidelines_page-0004.jpg)
+![Página 5](img/guidelines_page-0005.jpg)
+![Página 6](img/guidelines_page-0006.jpg)
+![Página 7](img/guidelines_page-0007.jpg)
+![Página 8](img/guidelines_page-0008.jpg)
+![Página 9](img/guidelines_page-0009.jpg)
+![Página 10](img/img/guidelines_page-0010.jpg)
+![Página 11](img/guidelines_page-0011.jpg)
+![Página 12](img/guidelines_page-0012.jpg)
 
 
 ### 3.d Mockup
