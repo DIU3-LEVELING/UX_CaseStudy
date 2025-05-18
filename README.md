@@ -201,7 +201,7 @@ Se te mostrará un resumen de la compra y confirmaremos el pago clicando en la o
 ![Página 7](img/guidelines_page-0007.jpg)
 ![Página 8](img/guidelines_page-0008.jpg)
 ![Página 9](img/guidelines_page-0009.jpg)
-![Página 10](img/img/guidelines_page-0010.jpg)
+![Página 10](img/guidelines_page-0010.jpg)
 ![Página 11](img/guidelines_page-0011.jpg)
 ![Página 12](img/guidelines_page-0012.jpg)
 
