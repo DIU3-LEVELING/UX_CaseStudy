@@ -103,14 +103,14 @@ Hemos realizado el Empathy Map para entender mejor a los usuarios interesados en
 [ScopeCanvas](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/Scope%20Canvas%20(1).pdf)
 
 
-### 2.b User Flow (task) analysis 
+### 2.c User Flow (task) analysis 
 Primero hemos analizado las tareas y les hemos dado una prioridad (H, M o L) para los usuarios y los adminstradores.
-[User Flow]([https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/User_Flow.pdf](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/img/tareas_permisos.png))
+[User Flow](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/img/tareas_permisos.png)
 En nuestro user flow, hemos representado el recorrido que sigue un usuario para registrarse, iniciar sesión y dejar una reseña sobre una prenda en la web. El flujo comienza en el portal, donde el usuario puede crear una cuenta introduciendo sus datos correctamente o recibiendo mensajes de error si hay fallos. Una vez creada la cuenta e iniciada sesión, el usuario accede a la sección de ropa de segunda mano, selecciona una prenda y, si ha iniciado sesión, puede dejar su reseña. En caso contrario, se le solicita iniciar sesión antes de continuar. Este flujo refleja una de las tareas clave para fomentar la participación activa en la plataforma.
 ![User Flow](img/User_Flow_page-0001.jpg)
 [User Flow](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/User_Flow.pdf)
 
-### 2.c IA: Sitemap + Labelling 
+### 2.d IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 Nuestro Sitemap quedaría tal que así:<br>
 ![Sitemap](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/sitemap.png) <br>
@@ -120,7 +120,7 @@ Y su Labelling:<br>
 [Labelling](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/Etiquetado_.pdf)
 
 
-### 2.d Wireframes
+### 2.e Wireframes
 ![Método UX](img/Wireframes.png) 
 Para los Wireframes se ha utilizado figma, y han quedado de la siguiente manera:<br>
 
