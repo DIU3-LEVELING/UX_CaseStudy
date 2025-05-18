@@ -90,29 +90,44 @@ En resumen, el sitio necesita una mejora urgente en funcionalidades clave, naveg
 ## Paso 2. UX Design  
 
 ### 2.a Empathy map 
-![Método UX](img/feedback-capture-grid.png) 
+![Método UX](img/feedback-capture-grid.png) <br>
+Hemos realizado el Empathy Map para entender mejor a los usuarios interesados en la compra de ropa de segunda mano, quedando de la siguiente manera: los usuarios valoran la sostenibilidad, el ahorro y la exclusividad de las prendas, pero expresan preocupaciones sobre la higiene, el estado de la ropa y la dificultad para encontrar tallas. Además, las redes sociales juegan un papel clave como fuente de inspiración e impulso para compartir sus hallazgos y formar parte de una comunidad de moda sostenible.
+![Empathy map](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/Empathy%20Customer%20Map%20Ropa%202%20Mano.pdf)
 [Empathy map](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/Empathy%20Customer%20Map%20Ropa%202%20Mano.pdf)
 
 
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
+![ScopeCanvas](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/Scope%20Canvas%20(1).pdf)
 [ScopeCanvas](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/Scope%20Canvas%20(1).pdf)
 
 
 ### 2.b User Flow (task) analysis 
-![Método UX](img/Sitemap.png) 
+![Método UX](img/Sitemap.png) <br>
+En nuestro user flow, hemos representado el recorrido que sigue un usuario para registrarse, iniciar sesión y dejar una reseña sobre una prenda en la web. El flujo comienza en el portal, donde el usuario puede crear una cuenta introduciendo sus datos correctamente o recibiendo mensajes de error si hay fallos. Una vez creada la cuenta e iniciada sesión, el usuario accede a la sección de ropa de segunda mano, selecciona una prenda y, si ha iniciado sesión, puede dejar su reseña. En caso contrario, se le solicita iniciar sesión antes de continuar. Este flujo refleja una de las tareas clave para fomentar la participación activa en la plataforma.
+![User Flow](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/User_Flow.pdf)
 [User Flow](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/User_Flow.pdf)
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
-[Sitemap](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/sitemap.png)
+Nuestro Sitemap quedaría tal que así:<br>
+![Sitemap](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/sitemap.png) <br>
+[Sitemap](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/sitemap.png)<br>
+Y su Labelling:<br>
+![Labelling](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/Etiquetado_.pdf) <br>
 [Labelling](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/Etiquetado_.pdf)
 
 
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
-[Bocetos Figma](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/Dise%C3%B1os_figma.pdf)
+Para los Wireframes se ha utilizado figma, y han quedado de la siguiente manera:<br>
+
+![Bocetos Figma](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/Dise%C3%B1os_figma.pdf)<br>
+[Bocetos Figma](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/Dise%C3%B1os_figma.pdf)<br>
+Y los responsive:<br>
+
+![Bocetos responsive](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/responsive.pdf)
 [Bocetos responsive](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/responsive.pdf)
 
 
