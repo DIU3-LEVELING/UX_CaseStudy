@@ -215,6 +215,13 @@ https://www.figma.com/design/u0xPnFSoru3xrFww3blOrQ/guidelines?node-id=0-1&t=8hR
 
 <br>
 
+
+### 3.e My UX-Case Study
+![Método UX](img/mockup.png) 
+
+Todos los resultados de la practica, asi como la documentacion sobbre como se ha realizado, se puede encontrar en: [Readme](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/README.md)
+
+<br>
 ## Paso 4. Pruebas de Evaluación 
 
 ### 4.a Reclutamiento de usuarios 
