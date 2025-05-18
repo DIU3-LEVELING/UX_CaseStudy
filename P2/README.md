@@ -1,9 +1,9 @@
 ## Paso 2. UX Design  
 
 ### 2.a Empathy map 
-![Método UX](img/feedback-capture-grid.png) <br>
+![Método UX](../img/feedback-capture-grid.png) <br>
 Hemos realizado el Empathy Map para entender mejor a los usuarios interesados en la compra de ropa de segunda mano, quedando de la siguiente manera: los usuarios valoran la sostenibilidad, el ahorro y la exclusividad de las prendas, pero expresan preocupaciones sobre la higiene, el estado de la ropa y la dificultad para encontrar tallas. Además, las redes sociales juegan un papel clave como fuente de inspiración e impulso para compartir sus hallazgos y formar parte de una comunidad de moda sostenible.
-![Empathy map](img/Empathy%20Customer%20Map%20Ropa%202%20Mano%20(2)_page-0001.jpg)
+![Empathy map](../img/Empathy%20Customer%20Map%20Ropa%202%20Mano%20(2)_page-0001.jpg)
 [Empathy map](https://github.com/DIU3-LEVELING/UX_CaseStudy/blob/master/P2/Empathy%20Customer%20Map%20Ropa%202%20Mano.pdf)
 
 
