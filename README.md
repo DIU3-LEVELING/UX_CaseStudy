@@ -280,7 +280,7 @@ Como podemos apreciar en los resultados, la diferencia principal se puede ver en
 >>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
 
 
-![experimento](img/experimentoET.png)  
+![experimento](img/experimento.png)  
 >>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
 
 >>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
