@@ -242,10 +242,10 @@ Todos los resultados de la practica, asi como la documentacion sobbre como se ha
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Manuel  | H / 22   | Estudiante  | Alta       | Extrovertido | Windows       | A 
+| Pedro  | H / 68   | Jubilado  |    Baja    |    Racional    | Móvil        | A 
+| Rosa  | M / 34   | Profesora     | Media        | Emocional    | Windows      | B 
+| Jorge | H / 19   | Estudiante  | Alta       |  Timido     | Móvil        | B 
 
 
 ### 4.b Diseño de las pruebas 
