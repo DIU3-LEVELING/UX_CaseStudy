@@ -17,7 +17,7 @@ Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-t
 
 
 ### 4.a Reclutamiento de usuarios 
-![Método UX](img/usability-testing.png)
+![Método UX](../img/usability-testing.png)
 -----
 
 >>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
@@ -34,7 +34,7 @@ Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-t
 
 
 ### 4.b Diseño de las pruebas 
-![Método UX](img/usability-testing.png) 
+![Método UX](../img/usability-testing.png) 
 -----
 
 >>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
@@ -53,7 +53,7 @@ Como podemos apreciar en los resultados, la diferencia principal se puede ver en
 
 
 ### 4.d A/B Testing
-![Método UX](img/ABtesting.png) 
+![Método UX](../img/ABtesting.png) 
 -----
 
 ## Evaluación de tareas clave – Casos A y B
@@ -79,7 +79,7 @@ Se presentan los resultados de las tareas clave para cada caso (A y B), evaluand
 Cada app se evalúa sobre sus procesos críticos. **La Tela De Vida** mantiene una excelente usabilidad, con un 100 % de éxito en ambas tareas y bajo esfuerzo en términos de tiempo y clics. Por el contrario, **BioAhorro** presenta dificultades notables en accesibilidad a la información y en el proceso de compra, con una tasa de éxito media inferior y mayor número de clics requeridos.
 
 ### 4.e Aplicación del método Eye Tracking 
-![Método UX](img/eye-tracking.png)
+![Método UX](../img/eye-tracking.png)
 ----
 Para evaluar el comportamiento visual de los usuarios en la app **BioAhorro** (Caso B), se diseñó un experimento de Eye Tracking utilizando la herramienta [GazeRecorder](https://www.gazerecorder.com/). Se empleó la versión gratuita, que permite hasta 3 participantes con generación de mapas de calor.
 
@@ -109,7 +109,7 @@ A continuación, se muestran dos mapas de calor representativos generados durant
 
 
 ### 4.f Usability Report de B
-![Método UX](img/usability-report.png) 
+![Método UX](../img/usability-report.png) 
 -----
 # Informe de Usabilidad – BioAhorro
 
