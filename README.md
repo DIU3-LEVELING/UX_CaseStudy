@@ -271,7 +271,23 @@ Como podemos apreciar en los resultados, la diferencia principal se puede ver en
 ![Método UX](img/ABtesting.png) 
 -----
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+Se presentan los resultados de las tareas clave para cada caso (A y B), evaluando el porcentaje de éxito, tiempo y número de clics. Cada app se analiza dentro de su propio contexto funcional.
+
+Caso A – La Tela De Vida
+
+Tarea (La Tela de Vida)	% Éxito	Tiempo medio	Clics medios
+Comprar producto	100 %	42 s	6
+Llegar a la página “Conócenos”	100 %	20 s	2
+Media general	100 %	31 s	4
+
+Caso B – BioAhorro
+
+Tarea (BioAhorro)	% Éxito	Tiempo medio	Clics medios
+Comprar tomates	75 %	60 s	8
+Llegar a información de manzanas	50 %	45 s	7
+Media general	63 %	52,5 s	7,5
+
+Cada app se evalúa sobre sus procesos críticos. La Tela De Vida mantiene una excelente usabilidad, con un 100 % de éxito en ambas tareas y bajo esfuerzo en términos de tiempo y clics. Por el contrario, BioAhorro presenta dificultades notables en accesibilidad a la información y en el proceso de compra, con una tasa de éxito media inferior y mayor número de clics requeridos.
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
