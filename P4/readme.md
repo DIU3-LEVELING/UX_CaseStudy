@@ -86,7 +86,7 @@ A continuación, se muestran dos mapas de calor representativos generados durant
 
 *Figura 2. Mapa de calor durante la navegación hacia la sección "Conócenos".*
 
-
+![Mapa de calor – Vista general navegación](CasoA.png)
 
 ### Tareas evaluadas B
 
