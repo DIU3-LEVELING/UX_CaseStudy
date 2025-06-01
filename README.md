@@ -422,9 +422,9 @@ La simulación mediante tareas dirigidas permitió observar:
 
 ### Imágenes :
 
-![Mapa de calor – Comprar tomates](ComprarProductoCasoB.png)
-![Mapa de Analisis – Comprar tomates](ComprarProducto_zonasCasoB.png)  
-![Mapa de calor – Info manzanas](ActividadManzanaCasoB.png)  
+![Mapa de calor – Comprar tomates](P4/ComprarProductoCasoB.png)
+![Mapa de Analisis – Comprar tomates](P4/ComprarProducto_zonasCasoB.png)  
+![Mapa de calor – Info manzanas](P4/ActividadManzanaCasoB.png)  
 
 
 ## Reflexion
@@ -433,31 +433,6 @@ Ambos proyectos presentaron fortalezas destacables: La Tela de Vida ofreció una
 
 
 <br>
-
-
-## Paso 5. Exportación y Documentación 
-
-
-### 5.a Exportación a HTML/React
-![Método UX](img/usabilityReview.png) 
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-### 5.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-<br>
-
-## Conclusiones finales & Valoración de las prácticas
-
-
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
 
 
 
