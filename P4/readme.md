@@ -78,11 +78,11 @@ Para evaluar el comportamiento visual de los usuarios en la app **BioAhorro** (C
 
 A continuación, se muestran dos mapas de calor representativos generados durante las tareas anteriores:
 
-![Mapa de calor – Comprar tomates](comprarA.png)  
+![Mapa de calor – Comprar tomates](ComprarA.png)  
 
 *Figura 1. Mapa de calor mientras compra.*
 
-![Mapa de calor – Acceso a Conócenos](conocenosA.png)  
+![Mapa de calor – Acceso a Conócenos](ConocenosA.png)  
 
 *Figura 2. Mapa de calor durante la navegación hacia la sección "Conócenos".*
 
