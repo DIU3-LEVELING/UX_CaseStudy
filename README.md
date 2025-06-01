@@ -232,7 +232,7 @@ Todos los resultados de la practica, asi como la documentacion sobbre como se ha
 
 
 ### 4.a Reclutamiento de usuarios 
-![Método UX](../img/usability-testing.png)
+![Método UX](img/usability-testing.png)
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
@@ -243,7 +243,7 @@ Todos los resultados de la practica, asi como la documentacion sobbre como se ha
 
 
 ### 4.b Diseño de las pruebas 
-![Método UX](../img/usability-testing.png) 
+![Método UX](img/usability-testing.png) 
 
 | Nº | Tipo de prueba     | Caso A – La Tela de Vida                                   | Caso B – BioAhorro                                                  | Métrica principal                     |
 |----|---------------------|------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------|
@@ -255,18 +255,18 @@ Todos los resultados de la practica, asi como la documentacion sobbre como se ha
 
 
 ### 4.c Cuestionario SUS
-![Método UX](../img/Survey.png) 
-![sus1](../img/sus1.png) 
-![sus2](../img/sus2.png) 
-![sus3](../img/sus3.png) 
-![sus4](../img/sus4.png) 
+![Método UX](img/Survey.png) 
+![sus1](img/sus1.png) 
+![sus2](img/sus2.png) 
+![sus3](img/sus3.png) 
+![sus4](img/sus4.png) 
 
 
 Como podemos apreciar en los resultados, la diferencia principal se puede ver en como esta de familiarizado la persona con la teconologia, puesto que los 2 estudiantes que estaban muy familiarizados con la tecnologia han recibido A y B, y la profesora con un punto intermedio una C. Pero si vemos al jubilado, obtuvo una F, puesto que le cuesta mucho mas la tecnologia al no estar familiarizado con ella
 
 
 ### 4.d A/B Testing
-![Método UX](../img/ABtesting.png) 
+![Método UX](img/ABtesting.png) 
 -----
 
 ## Evaluación de tareas clave – Casos A y B
@@ -292,7 +292,7 @@ Se presentan los resultados de las tareas clave para cada caso (A y B), evaluand
 Cada app se evalúa sobre sus procesos críticos. **La Tela De Vida** mantiene una excelente usabilidad, con un 100 % de éxito en ambas tareas y bajo esfuerzo en términos de tiempo y clics. Por el contrario, **BioAhorro** presenta dificultades notables en accesibilidad a la información y en el proceso de compra, con una tasa de éxito media inferior y mayor número de clics requeridos.
 
 ### 4.e Aplicación del método Eye Tracking 
-![Método UX](../img/eye-tracking.png)
+![Método UX](img/eye-tracking.png)
 ----
 Para evaluar el comportamiento visual de los usuarios en la app **BioAhorro** (Caso B), se diseñó un experimento de Eye Tracking utilizando la herramienta [GazeRecorder](https://www.gazerecorder.com/). Se empleó la versión gratuita, que permite hasta 3 participantes con generación de mapas de calor.
 
@@ -308,15 +308,15 @@ Para evaluar el comportamiento visual de los usuarios en la app **BioAhorro** (C
 
 A continuación, se muestran dos mapas de calor representativos generados durante las tareas anteriores:
 
-![Mapa de calor – Comprar tomates](../P4/ComprarA.png)  
+![Mapa de calor – Comprar tomates](P4/ComprarA.png)  
 
 *Figura 1. Mapa de calor mientras compra.*
 
-![Mapa de calor – Acceso a Conócenos](../P4/ConocenosA.png)  
+![Mapa de calor – Acceso a Conócenos](P4/ConocenosA.png)  
 
 *Figura 2. Mapa de calor durante la navegación hacia la sección "Conócenos".*
 
-![Mapa de calor – Vista general navegación](../P4/CasoA.png)
+![Mapa de calor – Vista general navegación](P4/CasoA.png)
 
 ### Tareas evaluadas B
 
@@ -330,12 +330,12 @@ A continuación, se muestran dos mapas de calor representativos generados durant
 
 A continuación, se muestran dos mapas de calor representativos generados durante las tareas anteriores:
 
-![Mapa de calor – Selección de tomates](../P4/ComprarProductoCasoB.png)
+![Mapa de calor – Selección de tomates](P4/ComprarProductoCasoB.png)
 *Figura 1. Mapa de calor mientras se seleccionaban tomates para la compra.*
 
-![Mapa de calor – Vista general navegación](../P4/ComprarProducto_zonasCasoB.png)
+![Mapa de calor – Vista general navegación](P4/ComprarProducto_zonasCasoB.png)
 
-![Mapa de calor – Información de manzanas](../P4/ActividadManzanaCasoB.png)
+![Mapa de calor – Información de manzanas](P4/ActividadManzanaCasoB.png)
 *Figura 2. Mapa de calor durante la consulta de información sobre manzanas.*
 
 
@@ -343,7 +343,7 @@ A continuación, se muestran dos mapas de calor representativos generados durant
 
 
 ### 4.f Usability Report de B
-![Método UX](../img/usability-report.png) 
+![Método UX](img/usability-report.png) 
 -----
 # Informe de Usabilidad – BioAhorro
 
@@ -357,7 +357,7 @@ A continuación, se muestran dos mapas de calor representativos generados durant
 Somos un grupo con experiencia previa en diseño de interfaces, validación con usuarios y pruebas con herramientas de prototipado como Figma y Maze. En esta práctica, nos hemos encargado de evaluar la práctica del equipo DIU1_FernandoAdam a través de técnicas como A/B testing, cuestionario SUS y Eye Tracking simulado.
 
 ## 1. Descripción del Website
-![LogoBioAhorro](../img/BioAhorro.png) 
+![LogoBioAhorro](img/BioAhorro.png) 
 
 BioAhorro es una plataforma que facilita el acceso a productos ecológicos de forma sencilla, sostenible y económica. Está orientada a conectar a los usuarios con pequeños productores locales, ofrecer recetas, productos destacados y fomentar el consumo responsable desde una interfaz accesible, moderna y clara.
 
@@ -382,8 +382,8 @@ Este informe presenta los resultados del test de usabilidad realizado sobre el p
 | Jorge  | H / 19      | Estudiante | Alta     | Tímido       | Móvil      | B    |
 
 ## 4. Conclusiones
-![sus3](../img/sus3.png) 
-![sus4](../img/sus4.png) 
+![sus3](img/sus3.png) 
+![sus4](img/sus4.png) 
 El prototipo demuestra un buen nivel de usabilidad y accesibilidad. El diseño es claro y visualmente atractivo. La experiencia de compra resulta intuitiva en general. Sin embargo, algunos elementos menos visibles requieren ajustes para mejorar la eficacia de la navegación, especialmente en dispositivos móviles.
 
 ### Incidencias
