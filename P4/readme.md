@@ -1,29 +1,8 @@
-# DIU - Practica 4, entregables
-
->>> Se publicará la [Asignacion_ABtesting](https://github.com/mgea/DIU/blob/master/P4/Asignacion_ABtesting.pdf)
->>> Se publicará la lista de grupos y los respectivos GitHub
-
-- Users. Elección y características de los usuarios reclutados
-- Diseño de las pruebas
-- Realización del Cuestionario SUS para usuarios y casos A y B.
-- Tabla A/B Testing con resultados para A y B
-- Eye Tracking para B
-- Usability Report del Caso B, con toda la información recabada del caso B
-
-Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
-- Conclusiones
-
 ## Paso 4. Pruebas de Evaluación 
 
 
 ### 4.a Reclutamiento de usuarios 
 ![Método UX](../img/usability-testing.png)
------
-
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
-
-
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
@@ -35,9 +14,13 @@ Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-t
 
 ### 4.b Diseño de las pruebas 
 ![Método UX](../img/usability-testing.png) 
------
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+| Nº | Tipo de prueba     | Caso A – La Tela de Vida                                   | Caso B – BioAhorro                                                  | Métrica principal                     |
+|----|---------------------|------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------|
+| 1  | Tarea guiada        | Comprar un producto desde la página principal              | Comprar tomates desde el listado de productos                       | % de éxito, número de clics           |
+| 2  | Tarea guiada        | Acceder a la sección “Conócenos” desde el menú             | Consultar información de las manzanas en su ficha de producto       | Tiempo (s), % de éxito                |
+| 3  | Cuestionario SUS    | Evaluación posterior a tareas guiadas                      | Evaluación posterior a tareas guiadas                               | Puntuación SUS (0–100)                |
+| 4  | Eye-tracking (Maze + GazeRecorder) | No se aplica                                       | Comprar tomates + consultar información de manzanas                | TTFF (Time to First Fixation), %AOI   |
 
 
 
