@@ -42,11 +42,11 @@ Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-t
 
 
 ### 4.c Cuestionario SUS
-![Método UX](img/Survey.png) 
-![sus1](img/sus1.png) 
-![sus2](img/sus2.png) 
-![sus3](img/sus3.png) 
-![sus4](img/sus4.png) 
+![Método UX](../img/Survey.png) 
+![sus1](../img/sus1.png) 
+![sus2](../img/sus2.png) 
+![sus3](../img/sus3.png) 
+![sus4](../img/sus4.png) 
 
 
 Como podemos apreciar en los resultados, la diferencia principal se puede ver en como esta de familiarizado la persona con la teconologia, puesto que los 2 estudiantes que estaban muy familiarizados con la tecnologia han recibido A y B, y la profesora con un punto intermedio una C. Pero si vemos al jubilado, obtuvo una F, puesto que le cuesta mucho mas la tecnologia al no estar familiarizado con ella
@@ -123,7 +123,7 @@ A continuación, se muestran dos mapas de calor representativos generados durant
 Somos un grupo con experiencia previa en diseño de interfaces, validación con usuarios y pruebas con herramientas de prototipado como Figma y Maze. En esta práctica, nos hemos encargado de evaluar la práctica del equipo DIU1_FernandoAdam a través de técnicas como A/B testing, cuestionario SUS y Eye Tracking simulado.
 
 ## 1. Descripción del Website
-![LogoBioAhorro](img/BioAhorro.png) 
+![LogoBioAhorro](../img/BioAhorro.png) 
 
 BioAhorro es una plataforma que facilita el acceso a productos ecológicos de forma sencilla, sostenible y económica. Está orientada a conectar a los usuarios con pequeños productores locales, ofrecer recetas, productos destacados y fomentar el consumo responsable desde una interfaz accesible, moderna y clara.
 
@@ -148,8 +148,8 @@ Este informe presenta los resultados del test de usabilidad realizado sobre el p
 | Jorge  | H / 19      | Estudiante | Alta     | Tímido       | Móvil      | B    |
 
 ## 4. Conclusiones
-![sus3](img/sus3.png) 
-![sus4](img/sus4.png) 
+![sus3](../img/sus3.png) 
+![sus4](../img/sus4.png) 
 El prototipo demuestra un buen nivel de usabilidad y accesibilidad. El diseño es claro y visualmente atractivo. La experiencia de compra resulta intuitiva en general. Sin embargo, algunos elementos menos visibles requieren ajustes para mejorar la eficacia de la navegación, especialmente en dispositivos móviles.
 
 ### Incidencias
