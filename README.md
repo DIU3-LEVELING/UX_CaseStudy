@@ -271,23 +271,27 @@ Como podemos apreciar en los resultados, la diferencia principal se puede ver en
 ![Método UX](img/ABtesting.png) 
 -----
 
-Se presentan los resultados de las tareas clave para cada caso (A y B), evaluando el porcentaje de éxito, tiempo y número de clics. Cada app se analiza dentro de su propio contexto funcional.
+## Evaluación de tareas clave – Casos A y B
 
-Caso A – La Tela De Vida
+Se presentan los resultados de las tareas clave para cada caso (A y B), evaluando el porcentaje de éxito, tiempo medio y número de clics. Cada app se analiza dentro de su propio contexto funcional.
 
-Tarea (La Tela de Vida)	% Éxito	Tiempo medio	Clics medios
-Comprar producto	100 %	42 s	6
-Llegar a la página “Conócenos”	100 %	20 s	2
-Media general	100 %	31 s	4
+### Caso A – La Tela De Vida
 
-Caso B – BioAhorro
+| Tarea                          | % Éxito | Tiempo medio | Clics medios |
+|-------------------------------|---------|---------------|---------------|
+| Comprar producto              | 100 %   | 42 s          | 6             |
+| Llegar a la página “Conócenos”| 100 %   | 20 s          | 2             |
+| **Media general**             | **100 %** | **31 s**     | **4**         |
 
-Tarea (BioAhorro)	% Éxito	Tiempo medio	Clics medios
-Comprar tomates	75 %	60 s	8
-Llegar a información de manzanas	50 %	45 s	7
-Media general	63 %	52,5 s	7,5
+### Caso B – BioAhorro
 
-Cada app se evalúa sobre sus procesos críticos. La Tela De Vida mantiene una excelente usabilidad, con un 100 % de éxito en ambas tareas y bajo esfuerzo en términos de tiempo y clics. Por el contrario, BioAhorro presenta dificultades notables en accesibilidad a la información y en el proceso de compra, con una tasa de éxito media inferior y mayor número de clics requeridos.
+| Tarea                              | % Éxito | Tiempo medio | Clics medios |
+|-----------------------------------|---------|---------------|---------------|
+| Comprar tomates                   | 75 %    | 60 s          | 8             |
+| Llegar a información de manzanas  | 50 %    | 45 s          | 7             |
+| **Media general**                 | **63 %** | **52,5 s**    | **7,5**       |
+
+Cada app se evalúa sobre sus procesos críticos. **La Tela De Vida** mantiene una excelente usabilidad, con un 100 % de éxito en ambas tareas y bajo esfuerzo en términos de tiempo y clics. Por el contrario, **BioAhorro** presenta dificultades notables en accesibilidad a la información y en el proceso de compra, con una tasa de éxito media inferior y mayor número de clics requeridos.
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
