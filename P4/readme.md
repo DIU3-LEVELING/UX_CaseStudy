@@ -67,7 +67,26 @@ Cada app se evalúa sobre sus procesos críticos. **La Tela De Vida** mantiene u
 Para evaluar el comportamiento visual de los usuarios en la app **BioAhorro** (Caso B), se diseñó un experimento de Eye Tracking utilizando la herramienta [GazeRecorder](https://www.gazerecorder.com/). Se empleó la versión gratuita, que permite hasta 3 participantes con generación de mapas de calor.
 
 
-### Tareas evaluadas
+### Tareas evaluadas A
+1. **Comprar un producto: **  
+   Se pidió al usuario que localizara y añadiera un producto al carrito y los comprara. Esta tarea permitió observar la atención visual en el listado de productos y en los botones de compra.
+
+2. **Acceder a la sección "Conócenos":**  
+   El usuario debía navegar por el sitio hasta encontrar y acceder a la sección “Conócenos” desde el menú principal. Esta prueba sirvió para analizar la facilidad de acceso a información institucional y cómo se reparte la atención en el menú.
+
+### Resultados visuales
+
+A continuación, se muestran dos mapas de calor representativos generados durante las tareas anteriores:
+
+![Mapa de calor – Comprar tomates](comprarA.png)  
+*Figura 1. Mapa de calor mientras compra.*
+
+![Mapa de calor – Acceso a Conócenos](conocenosA.png)  
+*Figura 2. Mapa de calor durante la navegación hacia la sección "Conócenos".*
+
+
+
+### Tareas evaluadas B
 
 1. **Comprar un producto (tomates):**  
    Se pidió al usuario que localizara y añadiera tomates al carrito y los comprara. Esta tarea permitió observar la atención visual en el listado de productos y en los botones de compra.
