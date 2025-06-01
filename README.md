@@ -296,14 +296,31 @@ Cada app se evalúa sobre sus procesos críticos. **La Tela De Vida** mantiene u
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
 ----
+Para evaluar el comportamiento visual de los usuarios en la app **BioAhorro** (Caso B), se diseñó un experimento de Eye Tracking utilizando la herramienta [GazeRecorder](https://www.gazerecorder.com/). Se empleó la versión gratuita, que permite hasta 3 participantes con generación de mapas de calor.
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+
+### Tareas evaluadas
+
+1. **Comprar un producto (tomates):**  
+   Se pidió al usuario que localizara y añadiera tomates al carrito y los comprara. Esta tarea permitió observar la atención visual en el listado de productos y en los botones de compra.
+
+2. **Consultar información de un producto (manzanas):**  
+   El usuario debía acceder a la ficha de un producto (manzanas) y leer su descripción. Esta tarea sirvió para detectar cómo se distribuye la atención entre imagen, precio y detalles del producto.
+
+### Resultados visuales
+
+A continuación, se muestran dos mapas de calor representativos generados durante las tareas anteriores:
+
+![Mapa de calor – Selección de tomates](P4/ComprarProductoCasoB.png)
+*Figura 1. Mapa de calor mientras se seleccionaban tomates para la compra.*
+
+![Mapa de calor – Vista general navegación](P4/ComprarProducto_zonasCasoB.png)
+
+![Mapa de calor – Información de manzanas](P4/ActividadManzanaCasoB.png)
+*Figura 2. Mapa de calor durante la consulta de información sobre manzanas.*
 
 
-![experimento](img/experimento.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
 
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
 
 
 ### 4.f Usability Report de B
