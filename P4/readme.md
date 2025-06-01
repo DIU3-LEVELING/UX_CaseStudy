@@ -20,7 +20,7 @@
 | 1  | Tarea guiada        | Comprar un producto desde la página principal              | Comprar tomates desde el listado de productos                       | % de éxito, número de clics           |
 | 2  | Tarea guiada        | Acceder a la sección “Conócenos” desde el menú             | Consultar información de las manzanas en su ficha de producto       | Tiempo (s), % de éxito                |
 | 3  | Cuestionario SUS    | Evaluación posterior a tareas guiadas                      | Evaluación posterior a tareas guiadas                               | Puntuación SUS (0–100)                |
-| 4  | Eye-tracking (Maze + GazeRecorder) | No se aplica                                       | Comprar tomates + consultar información de manzanas                | TTFF (Time to First Fixation), %AOI   |
+| 4  | Eye-tracking (Maze + GazeRecorder) | Comprar + consultar conocenos                                        | Comprar tomates + consultar información de manzanas                | TTFF (Time to First Fixation), %AOI   |
 
 
 
