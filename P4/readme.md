@@ -96,12 +96,12 @@ Para evaluar el comportamiento visual de los usuarios en la app **BioAhorro** (C
 
 A continuación, se muestran dos mapas de calor representativos generados durante las tareas anteriores:
 
-![Mapa de calor – Selección de tomates](P4/ComprarProductoCasoB.png)
+![Mapa de calor – Selección de tomates](ComprarProductoCasoB.png)
 *Figura 1. Mapa de calor mientras se seleccionaban tomates para la compra.*
 
-![Mapa de calor – Vista general navegación](P4/ComprarProducto_zonasCasoB.png)
+![Mapa de calor – Vista general navegación](ComprarProducto_zonasCasoB.png)
 
-![Mapa de calor – Información de manzanas](P4/ActividadManzanaCasoB.png)
+![Mapa de calor – Información de manzanas](ActividadManzanaCasoB.png)
 *Figura 2. Mapa de calor durante la consulta de información sobre manzanas.*
 
 
@@ -188,9 +188,9 @@ La simulación mediante tareas dirigidas permitió observar:
 
 ### Imágenes :
 
-![Mapa de calor – Comprar tomates](P4/ComprarProductoCasoB.png)
-![Mapa de Analisis – Comprar tomates](P4/ComprarProducto_zonasCasoB.png)  
-![Mapa de calor – Info manzanas](P4/ActividadManzanaCasoB.png)  
+![Mapa de calor – Comprar tomates](ComprarProductoCasoB.png)
+![Mapa de Analisis – Comprar tomates](ComprarProducto_zonasCasoB.png)  
+![Mapa de calor – Info manzanas](ActividadManzanaCasoB.png)  
 
 
 
