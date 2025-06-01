@@ -68,7 +68,7 @@ Para evaluar el comportamiento visual de los usuarios en la app **BioAhorro** (C
 
 
 ### Tareas evaluadas A
-1. **Comprar un producto: **  
+1. **Comprar un producto:**  
    Se pidió al usuario que localizara y añadiera un producto al carrito y los comprara. Esta tarea permitió observar la atención visual en el listado de productos y en los botones de compra.
 
 2. **Acceder a la sección "Conócenos":**  
@@ -196,6 +196,9 @@ La simulación mediante tareas dirigidas permitió observar:
 ![Mapa de Analisis – Comprar tomates](ComprarProducto_zonasCasoB.png)  
 ![Mapa de calor – Info manzanas](ActividadManzanaCasoB.png)  
 
+
+## Reflexion
+Ambos proyectos presentaron fortalezas destacables: La Tela de Vida ofreció una experiencia muy fluida e intuitiva, mientras que BioAhorro destacaba por su diseño visual y enfoque ecológico. Las pruebas permitieron detectar puntos de mejora importantes, especialmente en accesibilidad y navegación móvil. En general, el proceso de evaluación resultó muy útil para afinar el diseño, validar decisiones y obtener una visión más real del comportamiento del usuario.
 
 
 
